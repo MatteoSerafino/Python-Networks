@@ -8,6 +8,7 @@ with a network.
 In the main folder you can find the following jupyter notebooks:
 
 1)part_1_Networks_and_Python.ipynb
+
 2)part_2_Networks_and_Python.ipynb
 
 In the first part, we go through the basic operations that can be performed on a network,
