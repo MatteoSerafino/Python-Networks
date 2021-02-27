@@ -31,6 +31,7 @@ These Jupyter Notebooks were used in March 1, 2021 during the class of Complex-N
 Lecture 3: Introduction to Python for Network Analysis and Visualization
 
 ##############################################################################################
+
 In order to run the files .ipynb on your local machine you need to installed both python
 (https://docs.conda.io/projects/conda/en/latest/user-guide/install/) and Jupyter notebook
 (https://jupyter-notebook.readthedocs.io/en/stable/).
