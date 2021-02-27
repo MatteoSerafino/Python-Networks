@@ -32,11 +32,11 @@ Lecture 3: Introduction to Python for Network Analysis and Visualization
 
 ##############################################################################################
 
-In order to run the files .ipynb on you local machine you need to have installed on your local 
-machine both python (https://docs.conda.io/projects/conda/en/latest/user-guide/install/) and 
-Jupyter notebook (https://jupyter-notebook.readthedocs.io/en/stable/).                           
+In order to run the files .ipynb on your local machine you need to installed both python
+(https://docs.conda.io/projects/conda/en/latest/user-guide/install/) and Jupyter notebook
+(https://jupyter-notebook.readthedocs.io/en/stable/).                           
 
-You can open a .ipynb simply by typing on your terminal:
+You can open a .ipynb by typing on your terminal:
 
 jupyter notebook file_name.ipynb
 
