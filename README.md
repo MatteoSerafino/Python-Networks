@@ -3,8 +3,7 @@ Introduction to Networks on Python
 
 These is a short overview of Complex Networks on Python and a guide for 
 beginners users to the basic steeps are needed when someone is dealing
-with a network. This is done in two different parts:
-
+with a network. Here you can find the following jupyter notebooks:
 1)part_1_Networks_and_Python.ipynb
 2)part_2_Networks_and_Python.ipynb
 
