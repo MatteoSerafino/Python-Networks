@@ -9,7 +9,7 @@ In the main folder you can find the following jupyter notebooks:
 
 1)part_1_Networks_and_Python.ipynb
 
-2)part_2_Networks_and_Python.ipynb
+2)part_2_Real_World_Networks.ipynb
 
 In the first part, we go through the basic operations that can be performed on a network,
 as for example computing P(K) (degree distribution), C(k) (clustering coefficient),
