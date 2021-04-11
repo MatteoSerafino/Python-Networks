@@ -27,8 +27,9 @@ They can not be thought of as a compressive guide of the libraries used in the n
 They are just a short overview, which should give to the reader a sense of what
 can be done with Networks using python.
 
-These Jupyter Notebooks were used in March 1, 2021 during the class of Complex-Network at the CCNY:
-Lecture 3: Introduction to Python for Network Analysis and Visualization
+These Jupyter Notebooks were used on March 1 and April 11, , 2021 during the class of Complex-Network at the CCNY:
+
+Lecture 3: Introduction to Python for Network Analysis and Visualization (part 1 and part 2).
 
 ##############################################################################################
 
