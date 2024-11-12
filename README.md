@@ -9,9 +9,8 @@ In the main folder you can find the following jupyter notebooks:
 
 Lecture 1
 
-1)part_1_Networks_and_Python.ipynb
-
-2)part_2_Real_World_Networks.ipynb
+1) part_1_Networks_and_Python.ipynb
+2) part_2_Real_World_Networks.ipynb
 
 In the first part, we go through the basic operations that can be performed on a network,
 as for example computing P(K) (degree distribution), C(k) (clustering coefficient),
@@ -34,8 +33,7 @@ These Jupyter Notebooks were used during the class of Complex-Network at the CCN
 
 Lecture 2
 
-1) social_media_analysis_part1.ipynb
-2) 
+1) social_media_analysis_part1.ipynb 
 3) social_media_analysis_part2.ipynb
 
 
