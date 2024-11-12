@@ -8,7 +8,9 @@ with a network.
 In the main folder you can find the following jupyter notebooks:
 
 Lecture 1
+
 1)part_1_Networks_and_Python.ipynb
+
 2)part_2_Real_World_Networks.ipynb
 
 In the first part, we go through the basic operations that can be performed on a network,
@@ -31,9 +33,12 @@ These Jupyter Notebooks were used during the class of Complex-Network at the CCN
 
 
 Lecture 2
+
 1) social_media_analysis_part1.ipynb
-2) social_media_analysis_part2.ipynb
-3) 
+2) 
+3) social_media_analysis_part2.ipynb
+
+
 These two notebooks guide us through different applications of neural networks in social media analysis:
  understanding audience sentiment and engagement predictions.
 In the first part, we focuses on using a neural network for **sentiment analysis**. We explore techniques
