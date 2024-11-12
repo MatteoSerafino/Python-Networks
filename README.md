@@ -38,14 +38,16 @@ Lecture 2
 
 
 These two notebooks guide us through different applications of neural networks in social media analysis:
- understanding audience sentiment and engagement predictions.
+understanding audience sentiment and engagement predictions.
+
 In the first part, we focuses on using a neural network for **sentiment analysis**. We explore techniques
 for preprocessing social media data, such as tokenization and vectorization, and train a neural network model
 to classify the sentiment (e.g., positive, neutral, or negative) within posts. This helps us understand
 audience emotions and feedback.
+
 In the second part, we extend the analysis by training a neural network to **predict future interactions**
 or engagement metrics based on past data. By leveraging previous post engagements, such as likes or comments, we develop a
- model to forecast future trends, which can be applied to improve social media strategy and audience engagement predictions.
+model to forecast future trends, which can be applied to improve social media strategy and audience engagement predictions.
 
 ##############################################################################################
 
