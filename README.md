@@ -49,6 +49,40 @@ In the second part, we extend the analysis by training a neural network to **pre
 or engagement metrics based on past data. By leveraging previous post engagements, such as likes or comments, we develop a
 model to forecast future trends, which can be applied to improve social media strategy and audience engagement predictions.
 
+Lecture 3
+
+ML_for_Election_Prediction.ipynb
+
+In this notebook we analyze a Facebook dataset about the 2024 US elections (US_2024_800k.csv), where each row corresponds to a post with the following fields:
+
+- `p_id`: post identifier  
+- `conf`: confidence of the classifier  
+- `class`: one of `['Neither', 'Anti-Kamala', 'Anti-Trump', 'Pro-Kamala', 'Pro-Trump']`  
+- `statistics.like_count`: number of likes  
+- `creation_time` / `date`: time of publication  
+- `candidate_support`: aggregated candidate label (`Kamala`, `Trump`, or NaN for `Neither`)
+
+We start by exploring basic statistics: number of posts and likes over time, class distribution, confidence distributions by class, and engagement patterns (total and average likes) across the different categories.
+
+Next, we collapse the original labels into two camps (Kamala vs Trump), and compute:
+
+- share of posts aligned with each candidate  
+- share of likes aligned with each candidate  
+
+We compare these quantities to external signals at the **national level**:
+
+- pre-election national polling averages  
+- the final 2024 popular vote
+
+In the second part of the notebook, we focus on **time**. We study how the “prediction from likes” changes when we:
+
+- use daily vs cumulative like share  
+- apply moving averages with different window lengths  
+- use expanding windows with **exponential decay**, controlled by a time scale τ
+
+For each of these choices, we compare the resulting like-based prediction on the last day to the real election outcome, and visualize how the error depends on the window size and on τ.
+
+
 ##############################################################################################
 
 In order to run the files .ipynb on your local machine you need to installed both python
